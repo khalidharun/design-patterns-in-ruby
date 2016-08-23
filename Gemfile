@@ -6,3 +6,4 @@ source "https://rubygems.org"
 
 gem 'guard', '2.14.0'
 gem 'guard-rspec', '4.7.3'
+gem 'byebug', '9.0.5'
