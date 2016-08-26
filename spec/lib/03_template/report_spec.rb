@@ -1,4 +1,5 @@
-require './report'
+require 'spec_helper'
+require '03_template/report'
 
 describe Report do
   it "should be a defined class" do
