@@ -1,4 +1,5 @@
-require './lock'
+require 'spec_helper'
+require '04_strategy/lock'
 
 describe Lock do
   context "using UpcaseAuth strategy" do
